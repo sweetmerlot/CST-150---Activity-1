@@ -10,6 +10,7 @@ namespace MyFirstProject
 	{
 		/// <summary>
 		/// The main entry point for the application.
+		/// testing demo github
 		/// </summary>
 		[STAThread]
 		static void Main()
